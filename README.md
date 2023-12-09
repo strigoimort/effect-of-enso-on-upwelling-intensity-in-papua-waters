@@ -11,8 +11,9 @@ The analysis employs a combination of oceanographic data, satellite observations
 ## Data
 
 - GHRSST (Global High-Resolutions of Sea Surface Temperature)
+- OSTIA (Operational Sea Surface Temperature and Ice Analysis)
 - OC-CCI (Ocean Colour - Climate Change Initiative)
-- ASCAT (Advanced Scatterometer).
+- ASCAT (Advanced Scatterometer)
 
 ## Analysis
 
