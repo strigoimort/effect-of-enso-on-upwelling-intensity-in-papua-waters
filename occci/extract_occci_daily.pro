@@ -1,4 +1,4 @@
-pro extract_occcii_daily                                       ;Nama filenya, Nama file harus sama dengan *.pro bila tidak sama akan Error
+pro extract_occci_daily                                       ;Nama filenya, Nama file harus sama dengan *.pro bila tidak sama akan Error
 
 ;===========================COORDINATE=================================
 ;-----------------cut area coordinate------------------------
