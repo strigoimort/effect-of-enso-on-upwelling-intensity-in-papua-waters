@@ -3,7 +3,7 @@ function true2lon,rgb
   return,(long(rgb[0]) or ishft(long(rgb[1]),8) or ishft(long(rgb[2]),16))
 end
 ;==============================
-pro draw_clim_occciii
+pro draw_clim_occci
 tic
 ;===========================COLOR===========================
 !p.background='ffffff'x
