@@ -1,4 +1,4 @@
-# The Effect of <i>El Niño Southern Oscillation</i> (ENSO) on Upwelling Intensity in Northern Papua Waters
+# The Effect of El Niño Southern Oscillation (ENSO) on Upwelling Intensity in Northern Papua Waters
 
 ## Overview
 
