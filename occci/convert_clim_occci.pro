@@ -1,4 +1,4 @@
-pro convert_clim_occciii
+pro convert_clim_occci
 TIC
 ;-------image_coverage-------
 latmin=-20
