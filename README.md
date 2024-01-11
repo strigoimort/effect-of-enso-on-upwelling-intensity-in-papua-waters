@@ -20,6 +20,9 @@ The analysis employs a combination of oceanographic data, satellite observations
 IDL scripts illustrating the data processing, analysis, and visualization steps.
 
 ## Results
+
+<img src="./dist/result.png">
+
 The study reveals notable variations in upwelling intensity in the seas along the Northern Coast of Papua during the El Niño period (2015–2016) and the La Niña period (2010–2011). In the El Niño phase, the upwelling intensity increased by 4.00 m²/s, 2.05 m²/s, and 1.82 m²/s across the respective plots. Conversely, during the La Niña period, upwelling intensity exhibited a decrease of -6.56 m²/s, -5.81 m²/s, and -4.95 m²/s in each plot. A consistent trend emerged concerning SST during these contrasting ENSO phases. SST decreased across all plots during the El Niño period, while a converse pattern was observed during La Niña, with SST registering an increase in all plots. The correlation analysis between EMT and SST demonstrated values of -0.433, -0.510, and -0.687 for each plot, indicative of a negative relationship between offshore EMT and SST. Further, the determination coefficient values were 0.187, 0.260, and 0.472 for each respective plot. These analyses collectively underscore the influence of EMT on upwelling, particularly in the southeastern part of the waters. Meanwhile, the northwestern region continues to be predominantly influenced by the IPWP. In conclusion, this study enhances our understanding of the complex dynamics of upwelling in the seas along the Northern Coast of Papua, shedding light on the distinct impacts of El Niño and La Niña events on upwelling intensity and SST patterns in different regions of the study area.
 
 ## References
