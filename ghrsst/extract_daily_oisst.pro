@@ -1,4 +1,4 @@
-pro extract_daily_oisst                                       ;Nama filenya, Nama file harus sama dengan *.pro bila tidak sama akan Error
+pro extract_daily_oisst                          
 
 ;===========================COORDINATE=================================
 ;-----------------cut area coordinate------------------------
