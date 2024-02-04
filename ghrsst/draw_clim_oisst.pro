@@ -40,7 +40,6 @@ bar_length=fix(xsize*0.7) ;panjang dari colorbar di bawah peta
 rgb3=byte(congrid(rgb2,bar_length,15,3))
 ;stop
 ;---------------------------------------data coverage
-;---------------indonesia
 latmin=-4 
 latmax=6
 lonmin=130
