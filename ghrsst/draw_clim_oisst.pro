@@ -10,13 +10,13 @@ TIC
 !p.color=0
 
 ;===========================BORDER===========================
-;!P.Region=[0.02,0.09,0.98,0.98] ;minimal 0 maksimal 1 (atas bawah kanan kiri)
+;!P.Region=[0.02,0.09,0.98,0.98] ;minimal 0 maksimal 1 
 ;!P.Position=[0.07,0.25,0.96,0.90]
 
-;!P.Region=[0.01,0.01,0.99,0.99] ;minimal 0 maksimal 1 (atas bawah kanan kiri)
+;!P.Region=[0.01,0.01,0.99,0.99] ;minimal 0 maksimal 1
 ;!P.Position=[0.05,0.01,0.95,0.99]
 
-!P.Region=[0.01,0.01,0.99,0.99] ;minimal 0 maksimal 1 (atas bawah kanan kiri)
+!P.Region=[0.01,0.01,0.99,0.99] ;minimal 0 maksimal 1
 !P.Position=[0.05,0.01,0.95,0.99]
 
 ;POSITION BUAT COLORBAR
