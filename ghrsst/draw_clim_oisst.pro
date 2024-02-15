@@ -70,7 +70,7 @@ image_height=round((latmax-latmin)/grid_interval+1)
 ;stop
 ;;*****************************************************************************************************************
 
-;-------------------loop_for_month-------------------------90_ID
+;-------------------loop_for_month-------------------------
 start_month=1
 end_month=12
 for month=start_month,end_month do begin
